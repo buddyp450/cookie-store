@@ -2,6 +2,7 @@
 
 ## Preparation
 
+- (Optional: get a primer on [what MCP even is](https://modelcontextprotocol.io/introduction))
 - **Obtain an** [OpenAI API Secret Key](https://platform.openai.com/api-keys)
 - **Set some sane limits/thresholds for alerts**
    
